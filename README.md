@@ -1,4 +1,4 @@
-sfsdfdf# Neural Network Explorer
+# Neural Network Explorer
 
 Welcome to the **Neural Network Explorer Project**! This website is designed to help you **learn about neural networks and programming languages** in an engaging and interactive way. It also features a fun neural network animation to visualize how networks process data!
 
